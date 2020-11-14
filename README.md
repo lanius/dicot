@@ -1,6 +1,6 @@
 # dicot
 
-Controls Futaba Command-Type Servo motors. It is developed and tested with [RS204MD](http://www.futaba.co.jp/robot/command_type_servos/rs204md).
+Controls Futaba Command-Type Servo motors. It is developed and tested with [RS204MD](http://www.futaba.co.jp/robot/command_type_servos/rs204md) and [RS318CD](http://www.futaba.co.jp/robot/command_type_servos/rs318cd).
 
 ## Installation
 
