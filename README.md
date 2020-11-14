@@ -13,7 +13,7 @@ $ pip install dicot
 Create the serial port connection, enable the torque, and set the motor angle:
 
 ```pycon
->>> improt dicot
+>>> import dicot
 >>>
 >>> cnx = dicot.open('COM1')
 >>>
